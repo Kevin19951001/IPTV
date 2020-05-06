@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:0,BET - Channel 0
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1812
+#EXTINF:0,TOM & JERRY - Channel 1
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:0,NICK - Channel 2	
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1744
+#EXTINF:0,DISNEY JUNIOR - Channel 3
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1786
+#EXTINF:0,DISNEY CHANNEL - Channel 4
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1787
+#EXTINF:0,SYFY - Channel 5
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1735
+#EXTINF:0,TNT - Channel 6
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1731
+#EXTINF:0,PBS - Channel 7
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1737
+#EXTINF:0,BEANZTV - Channel 8
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1800
+#EXTINF:0,FX MOVIES - Channel 9
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1763
+#EXTINF:0,FXX MOVIES - Channel 10
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1762
+#EXTINF:0,BEANZTV - Channel 11
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1756
+#EXTINF:0,BEANZTV - Channel 13
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1751
+#EXTINF:0,PARAMOUNT NETWORK - Channel 14
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1738
+#EXTINF:0,BEANZTV - Channel 15
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1740
+#EXTINF:0,BEANZTV - Channel 16
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1739
+#EXTINF:0,DISCOVERY CHANNEL - Channel 17
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1791
+#EXTINF:0,WGCU-PBS - Channel 18
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1758
+#EXTINF:0,IFC - Channel 20
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1754
+#EXTINF:0,VH1 - Channel 21
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1723
+#EXTINF:0,BEANZTV - Channel 22
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1793
+#EXTINF:0,BEANZTV - Channel 23
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1729
+#EXTINF:0,REELZ - Channel 24
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1741
+#EXTINF:0,TLC - Channel 25
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1732
+#EXTINF:0,FREEFORM - Channel 26
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1764
+#EXTINF:0,TRAVEL CHANNEL - Channel 27
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1730
+#EXTINF:0,DIY - Channel 28
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1785
+#EXTINF:0,NAT GEO WILD - Channel 29
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1748
+#EXTINF:0,BEANZTV - Channel 30
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1776
+#EXTINF:0,CNN - Channel 31
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1819
+#EXTINF:0,USA NETWORK - Channel 32
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1727
+#EXTINF:0,BEANZTV - Channel 33
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1750
+#EXTINF:0,FOX SOCCER CHANNEL - Channel 34
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1777
+#EXTINF:0,BEANZTV - Channel 36
+#EXTVLCOPT:network-caching=1000
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
