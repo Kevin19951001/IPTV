@@ -43,14 +43,14 @@ http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1730
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1785
 #EXTINF:0,NAT GEO WILD - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1748
-#EXTINF:0, - Channel 
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1776
 #EXTINF:0,CNN - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1819
-#EXTINF:0, - Channel 
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1750
 #EXTINF:0,FOX SOCCER CHANNEL - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1777
+#EXTINF:0, - Channel 
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1776
+#EXTINF:0, - Channel 
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1750
 #EXTINF:0, - Channel
 #EXTVLCOPT:network-caching=1000
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
