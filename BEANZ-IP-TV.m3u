@@ -7,7 +7,7 @@ http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1787
 http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:0,SYFY - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1735
-#EXTINF:0,USA NETWORK - Channel 
+#EXTINF:0,MSN - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1727
 #EXTINF:0,TNT - Channel
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1731
@@ -23,10 +23,13 @@ http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1764
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1763
 #EXTINF:0,FXX MOVIES - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1762
-#EXTINF:0,HBO - Channel 
+#EXTINF:0,PARAMOUNT NETWORK - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1738
-#EXTINF:0,PARAMOUNT NETWORK- Channel 
+#EXTINF:0,HBO - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1739
+#EXTINF:0,HBO PACIFIC - Channel
+#EXTVLCOPT:network-caching=1000
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:0,WGCU-PBS - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1758
 #EXTINF:0,USA - Channel 
@@ -47,10 +50,8 @@ http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1748
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1819
 #EXTINF:0,FOX SOCCER CHANNEL - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1777
-#EXTINF:0, - Channel 
+#EXTINF:0,FOOD NETWORK - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1776
-#EXTINF:0, - Channel 
+#EXTINF:0,MSNBC - Channel 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1750
-#EXTINF:0, - Channel
-#EXTVLCOPT:network-caching=1000
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
